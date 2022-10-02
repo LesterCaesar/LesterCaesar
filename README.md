@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lester Lagura
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning to create a game
 - 📫 How to reach me ...
 
 <!---
